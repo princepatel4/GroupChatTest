@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "142434947493",
+    "firebase_url": "https://groupchattest-ec18d.firebaseio.com",
+    "project_id": "groupchattest-ec18d",
+    "storage_bucket": "groupchattest-ec18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142434947493:android:a016f691ef19a0e4",
+        "android_client_info": {
+          "package_name": "com.groupchattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142434947493-hojo1p6b27qo1nncjk3c8hubk40s9kgc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "142434947493-hojo1p6b27qo1nncjk3c8hubk40s9kgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyagasmj6rfhqDq7_bp4CCdpVsqJF4nFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

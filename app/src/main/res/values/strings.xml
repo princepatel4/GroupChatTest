@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GroupChatTest</string>
+    <string name="splash_title">Welcome to Photo Sharing App</string>
+    <string name="signup_now_text">Not signup? Signup now</string>
+    <string name="button_login">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Username</string>
+    <string name="action_add">Add Image</string>
+</resources>
